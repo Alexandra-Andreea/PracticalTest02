@@ -1,0 +1,7 @@
+package ro.pub.cs.systems.eim.practicaltest02.network;
+
+public class ServerThread extends Thread {
+
+
+
+}
